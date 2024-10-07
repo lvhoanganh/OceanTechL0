@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|c:\\users\\lvha0\\onedrive\\m\u00E1y t\u00EDnh\\oceantech\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|c:\\users\\lvha0\\onedrive\\m\u00E1y t\u00EDnh\\oceantech\\studentmanagement\\studentmanagement\\valid\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\valid\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|c:\\users\\lvha0\\onedrive\\m\u00E1y t\u00EDnh\\oceantech\\studentmanagement\\studentmanagement\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|c:\\users\\lvha0\\onedrive\\m\u00E1y t\u00EDnh\\oceantech\\studentmanagement\\studentmanagement\\service\\academicperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\service\\academicperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|c:\\users\\lvha0\\onedrive\\m\u00E1y t\u00EDnh\\oceantech\\studentmanagement\\studentmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|c:\\users\\lvha0\\onedrive\\m\u00E1y t\u00EDnh\\oceantech\\studentmanagement\\studentmanagement\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40C11BB-5E92-4917-9E57-34AFCCB6160C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:55:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Valid\\Validation.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Valid\\Validation.cs",
+              "ToolTip": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Valid\\Validation.cs",
+              "RelativeToolTip": "StudentManagement\\Valid\\Validation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:53:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Service\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement\\Service\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:51:45.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcademicPerformance.cs",
+              "DocumentMoniker": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Service\\AcademicPerformance.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Service\\AcademicPerformance.cs",
+              "ToolTip": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Service\\AcademicPerformance.cs",
+              "RelativeToolTip": "StudentManagement\\Service\\AcademicPerformance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:47:03.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:44:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\lvha0\\OneDrive\\M\u00E1y t\u00EDnh\\OceanTech\\StudentManagement\\StudentManagement\\Entities\\Person.cs",
+              "RelativeToolTip": "StudentManagement\\Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:43:42.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
