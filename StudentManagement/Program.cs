@@ -13,7 +13,7 @@ namespace StudentManagement
         static void Main(string[] args)
         {
             StudentService studentService = new StudentService();
-            string filePath = @"C:\Users\lvha0\OneDrive\Máy tính\students.txt"; // Đường dẫn đến file trên Desktop
+            string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Entities", "students.txt");
 
             while (true)
             {
@@ -55,10 +55,10 @@ namespace StudentManagement
                         studentService.DisplayAverageScorePercentages();
                         break;
                     case 8:
-                        studentService.SaveToFile(filePath);
+                        studentService.SaveToFile();
                         break;
                     case 9:
-                        studentService.LoadFromFile(filePath);
+                        studentService.LoadFromFile();
                         break;
                     case 0:
                         return;

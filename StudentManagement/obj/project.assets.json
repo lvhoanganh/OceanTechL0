@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lvha0\\OneDrive\\Máy tính\\OceanTech\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+      "projectUniqueName": "D:\\OceanTech\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
       "projectName": "StudentManagement",
-      "projectPath": "C:\\Users\\lvha0\\OneDrive\\Máy tính\\OceanTech\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+      "projectPath": "D:\\OceanTech\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
       "packagesPath": "C:\\Users\\lvha0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lvha0\\OneDrive\\Máy tính\\OceanTech\\StudentManagement\\StudentManagement\\obj\\",
+      "outputPath": "D:\\OceanTech\\StudentManagement\\StudentManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

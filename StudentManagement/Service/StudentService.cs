@@ -146,21 +146,39 @@ namespace StudentManagement.Service
             }
         }
 
-        public void SaveToFile(string filePath)
+        public void SaveToFile()
         {
+            // Lấy đường dẫn thư mục bin
+            string folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Entities");
+
+            // Kiểm tra và tạo thư mục nếu chưa tồn tại
+            if (!Directory.Exists(folderPath))
+            {
+                Directory.CreateDirectory(folderPath); // Tạo thư mục
+            }
+
+            // Đường dẫn đến file students.txt
+            string filePath = Path.Combine(folderPath, "students.txt");
+
+            // Mở file để ghi
             using (StreamWriter writer = new StreamWriter(filePath, false))
             {
                 foreach (var student in students)
                 {
-                    writer.WriteLine($"{student.Id},{student.Name},{student.Birthday},{student.Address},{student.Height},{student.Weight},{student.Code},{student.School},{student.Average},{student.StartDate}"); // Thêm StartDate vào file
+                    writer.WriteLine($"{student.Id},{student.Name},{student.Birthday},{student.Address},{student.Height},{student.Weight},{student.Code},{student.School},{student.Average},{student.StartDate}");
                 }
             }
+
             Console.WriteLine("Students have been saved to the file.");
         }
 
-        public void LoadFromFile(string filePath)
+
+
+        public void LoadFromFile()
         {
             students.Clear();
+            string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Entities", "students.txt");
+
             if (!File.Exists(filePath))
             {
                 Console.WriteLine("File not found!");
@@ -185,7 +203,7 @@ namespace StudentManagement.Service
                         Code = data[6],
                         School = data[7],
                         Average = double.Parse(data[8]),
-                        StartDate = DateOnly.Parse(data[9]) // Đọc trường StartDate từ file
+                        StartDate = DateOnly.Parse(data[9]),
                     };
 
                     student.UpdatePerformance(); // Cập nhật tình trạng học tập khi tải sinh viên từ file

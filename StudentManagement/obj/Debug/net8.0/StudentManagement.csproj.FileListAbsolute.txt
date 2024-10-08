@@ -12,3 +12,18 @@ C:\Users\lvha0\OneDrive\Máy tính\OceanTech\StudentManagement\StudentManagement
 C:\Users\lvha0\OneDrive\Máy tính\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.pdb
 C:\Users\lvha0\OneDrive\Máy tính\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.genruntimeconfig.cache
 C:\Users\lvha0\OneDrive\Máy tính\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\ref\StudentManagement.dll
+D:\OceanTech\StudentManagement\StudentManagement\bin\Debug\net8.0\StudentManagement.exe
+D:\OceanTech\StudentManagement\StudentManagement\bin\Debug\net8.0\StudentManagement.deps.json
+D:\OceanTech\StudentManagement\StudentManagement\bin\Debug\net8.0\StudentManagement.runtimeconfig.json
+D:\OceanTech\StudentManagement\StudentManagement\bin\Debug\net8.0\StudentManagement.dll
+D:\OceanTech\StudentManagement\StudentManagement\bin\Debug\net8.0\StudentManagement.pdb
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.AssemblyInfoInputs.cache
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.AssemblyInfo.cs
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.csproj.CoreCompileInputs.cache
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.sourcelink.json
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.dll
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\refint\StudentManagement.dll
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.pdb
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\StudentManagement.genruntimeconfig.cache
+D:\OceanTech\StudentManagement\StudentManagement\obj\Debug\net8.0\ref\StudentManagement.dll
